@@ -10,6 +10,16 @@ https://github.com/jugnugs/katClickFrontend
 
 https://imgur.com/a/TItxh9n
 
+Technologies used:
+
+Frontend:
+
+Html, CSS, React.
+
+Backend:
+
+Python.
+
 This project was made by:
 
 Eugene Li (https://github.com/Eugenebaba),
